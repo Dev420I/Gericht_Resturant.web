@@ -11,3 +11,6 @@ export {
   MenuItem,
   Navbar,
 };
+
+export class images {
+}
