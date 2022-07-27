@@ -10,3 +10,4 @@ const SubHeading = ({ title }) => (
 );
 
 export default SubHeading;
+

@@ -14,3 +14,6 @@ export {
 
 export class images {
 }
+
+export class NewsLetter {
+}
